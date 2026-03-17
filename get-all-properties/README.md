@@ -1,6 +1,6 @@
 # getAllProperties() missing annotations from superclasses
 
-> [!INFO]
+> [!NOTE]
 > Reported on the [KSP issue tracker](https://github.com/google/ksp/issues/2833).
 
 This is a simple MRE for a bug encountered on the `getAllProperties()` implementation when migrating to KSP2. It did not occur on previous versions.
