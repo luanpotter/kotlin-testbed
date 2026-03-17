@@ -1,5 +1,7 @@
 # getAllProperties() missing annotations from superclasses
 
+This is a simple MRE for a bug encountered on the `getAllProperties()` implementation when migrating to KSP2. It did not occur on previous versions.
+
 To repo, run `./scripts/run.sh`.
 
 ### Output
